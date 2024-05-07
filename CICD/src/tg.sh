@@ -1,5 +1,5 @@
-TELEGRAM_USER_ID="460689893"
-TELEGRAM_BOT_TOKEN="6846878207:AAFnwRUCATirzBdTuoDTSkRxifJiMhDimpw"
+TELEGRAM_USER_ID="" #enter your user id
+TELEGRAM_BOT_TOKEN="" #enter your bot token
 TIME=10
 
 URL="https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage"
